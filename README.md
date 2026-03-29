@@ -1,6 +1,6 @@
 # 🫁 SpiroMine (Asthma Assistant)
 
-**SpiroMine**, astım hastalarının yaşam kalitesini artırmak, çevresel tetikleyicileri takip etmek ve kriz anlarını yönetmek için geliştirilmiş yapay zeka destekli bir mobil ve web asistanıdır.Uygulama, hastaların günlük solunum takibinden acil durum ihtiyaçlarına kadar geniş bir yelpazede destek sunar.
+**SpiroMine**, astım hastalarının yaşam kalitesini artırmak, çevresel tetikleyicileri takip etmek ve kriz anlarını yönetmek için geliştirilmiş yapay zeka destekli bir mobil ve web asistanıdır. Uygulama, hastaların günlük solunum takibinden acil durum ihtiyaçlarına kadar geniş bir yelpazede destek sunar.
 
 ---
 
